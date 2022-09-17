@@ -1,0 +1,27 @@
+/*slyle*/
+
+body {
+    background-image: url('../images/Hello-World.jpg');
+    /*background-color: aquamarine;*/
+    /*"https://iea.imgix.net/videos/v2/cover/africa_1080_cover.jpg"*/
+}
+
+/*p { 
+    background-color: yellow;}*/
+
+h1 {
+    color: white;
+    text-align: center;
+
+}
+
+div {
+    color: rgb(255, 255, 255);
+    text-align: center;
+
+}
+
+
+/*body {
+    background-image: url(world-360_1080_cover.jpeg);
+}
